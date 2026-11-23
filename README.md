@@ -9,7 +9,7 @@
 <p>
   <a href="https://mattiavolpentesta.it"><img src="https://img.shields.io/badge/Website-mattiavolpentesta.it-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/mattia-v/"><img src="https://img.shields.io/badge/LinkedIn-mattia--v-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Rende,_Calabria-Italy_🇮🇹-0f172a?style=for-the-badge" alt="Rende, Italy">
+  <img src="https://img.shields.io/badge/Calabria-Italy_🇮🇹-0f172a?style=for-the-badge" alt="Rende, Italy">
 </p>
 
 </div>
