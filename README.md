@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Mattia%20Volpentesta&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=AI%20integrations%20%26%20custom%20web%20apps%20for%20SMBs&descAlignY=58&descSize=16" width="100%" alt="Mattia Volpentesta">
+<img src="assets/header.svg" width="100%" alt="Mattia Volpentesta">
 
 <a href="https://mattiavolpentesta.it">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Engineering+student+%40+Unical;Founder+%40+Mavo+Consulting;Building+AI+integrations+for+SMBs;Future+AI+%26+ML+Engineer+%F0%9F%A4%96" alt="Typing intro">
