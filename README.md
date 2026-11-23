@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Mattia Volpentesta">
+<img src="assets/banner.svg" width="100%" alt="Mattia Volpentesta">
 
 <a href="https://mattiavolpentesta.it">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Engineering+student+%40+Unical;Founder+%40+Mavo+Consulting;Building+AI+integrations+for+SMBs;Future+AI+%26+ML+Engineer+%F0%9F%A4%96" alt="Typing intro">
